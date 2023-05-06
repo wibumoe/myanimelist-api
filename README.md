@@ -1,0 +1,2 @@
+# myanimelist-api
+Myanimelist Api
